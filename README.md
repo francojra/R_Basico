@@ -43,4 +43,11 @@
 
 ### Funções estatísticas
 
-- 
+- Retorna o valor máximo de um vetor x: max(x)
+- Retorna o valor mínimo de um vetor de x: min(x)
+- Soma dos valores do vetor x: sum(x)
+- Média dos valores do vetor x: mean(x)
+- Mediana dos valores do vetor x: median(x)
+- Retorna a amplitude do vetor de x: range(x)
+- Retorna o desvio-padrão do vetor de x: sd(x)
+- Retorna a variância do vetor de x: var(x)
