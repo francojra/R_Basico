@@ -1,4 +1,4 @@
-# R Básico
+# R Básico 
 
 ## Nesse repositório você encontrará algumas funções básicas para aprender a linguagem R.
 
@@ -25,4 +25,9 @@
 - Adiciona comentários ao código que não são lidos pelo R: #
 - Remover objetos: rm(objeto)
 - Remove todos os objetos criados: rm(list = ls())
-- 
+- Instalar pacotes: install.packages("nome_do_pacote")
+- Carrega o pacote instalado: require(nome_do_pacote
+- Ativa o pacote: library(nome_do_pacote)
+- Para verificar exemplos de uma função: example(nomeda_funcao)
+- Exibir demonstrações de funções de um pacote: demo(nome_do_pacote)
+- Pedir ajuda sobre uma função: help(nome_da_funcao)
