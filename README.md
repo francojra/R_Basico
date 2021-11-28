@@ -51,3 +51,7 @@
 - Retorna a amplitude do vetor de x: range(x)
 - Retorna o desvio-padrão do vetor de x: sd(x)
 - Retorna a variância do vetor de x: var(x)
+
+### Referência
+
+https://operdata.com.br/blog/introducao-ao-software-r/
