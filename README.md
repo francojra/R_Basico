@@ -50,6 +50,12 @@
 - Retorna o desvio-padrão do vetor de x: sd(x)
 - Retorna a variância do vetor de x: var(x)
 
+#### Observação:
+
+##### Você pode criar um vetor com um conjunto de números usando a função concatenar "c". Exemplo:
+- x <- c(2, 5, 8, 26, 28, 9) # x é o nome do objeto criado que possui os valores
+- x # Após colocar o nome do objeto x, você verá o conjunto de valores selecionados acima
+
 #### Referência
 
 https://operdata.com.br/blog/introducao-ao-software-r/
