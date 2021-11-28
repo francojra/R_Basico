@@ -1,10 +1,8 @@
 # R Básico 
 
-## Nesse repositório você encontrará algumas funções básicas para aprender a linguagem R.
+### Nesse repositório você encontrará aspactos básicos da linguagem R. Leia e em seguida coloque em prática usando o software.
 
-## Leia e em seguida coloque em prática usando o software.
-
-### Operadores na linguagem R
+#### Operadores na linguagem R
 
 - Atribuir nome a um objeto: <-
 - Atribuir valor a um argumento: =
@@ -32,7 +30,7 @@
 - Exibir demonstrações de funções de um pacote: demo(nome_do_pacote)
 - Pedir ajuda sobre uma função: help(nome_da_funcao)
 
-### Funções matemáticas
+#### Funções matemáticas
 
 - Retorna o tamanho de um vetor x: lenght(x)
 - Retorna o logaritmo na base x: log(x)
@@ -41,7 +39,7 @@
 - Retorna o fatorial de x (x!): factorial(x)
 - Arredonda o valor de x: round(x)
 
-### Funções estatísticas
+#### Funções estatísticas
 
 - Retorna o valor máximo de um vetor x: max(x)
 - Retorna o valor mínimo de um vetor de x: min(x)
@@ -52,6 +50,6 @@
 - Retorna o desvio-padrão do vetor de x: sd(x)
 - Retorna a variância do vetor de x: var(x)
 
-### Referência
+#### Referência
 
 https://operdata.com.br/blog/introducao-ao-software-r/
