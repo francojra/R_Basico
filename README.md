@@ -28,6 +28,19 @@
 - Instalar pacotes: install.packages("nome_do_pacote")
 - Carrega o pacote instalado: require(nome_do_pacote
 - Ativa o pacote: library(nome_do_pacote)
-- Para verificar exemplos de uma função: example(nomeda_funcao)
+- Para verificar exemplos de uma função: example(nome_da_funcao)
 - Exibir demonstrações de funções de um pacote: demo(nome_do_pacote)
 - Pedir ajuda sobre uma função: help(nome_da_funcao)
+
+### Funções matemáticas
+
+- Retorna o tamanho de um vetor x: lenght(x)
+- Retorna o logaritmo na base x: log(x)
+- Retorna o exponencial de x: exp(x)
+- Retorna a raiz quadrada de x: sqrt(x)
+- Retorna o fatorial de x (x!): factorial(x)
+- Arredonda o valor de x: round(x)
+
+### Funções estatísticas
+
+- 
